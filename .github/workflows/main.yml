@@ -88,6 +88,8 @@ jobs:
           haxelib --quiet install flixel-addons
           haxelib --quiet install polymod
           haxelib --quiet install hxcpp-debug-server
+          haxelib --quiet install hxp
+          haxelib --quiet git spinehaxe https://github.com/bendmorris/spinehaxe
           haxelib --quiet git hscript https://github.com/YoshiCrafter29/hscript-improved.git
           haxelib --quiet git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
         shell: cmd
