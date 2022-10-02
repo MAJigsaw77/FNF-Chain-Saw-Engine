@@ -139,45 +139,6 @@
 			]
 		},
 		{
-			"animation": "firstDeath",
-			"prefix": "BF dies",
-			"framerate": 24,
-			"looped": false,
-			"indices": [],
-			"flipX": false,
-			"flipY": false,
-			"offset": [
-				32,
-				11
-			]
-		},
-		{
-			"animation": "deathLoop",
-			"prefix": "BF Dead Loop",
-			"framerate": 24,
-			"looped": true,
-			"indices": [],
-			"flipX": false,
-			"flipY": false,
-			"offset": [
-				32,
-				5
-			]
-		},
-		{
-			"animation": "deathConfirm",
-			"prefix": "BF Dead confirm",
-			"framerate": 24,
-			"looped": false,
-			"indices": [],
-			"flipX": false,
-			"flipY": false,
-			"offset": [
-				32,
-				69
-			]
-		},
-		{
 			"animation": "scared",
 			"prefix": "BF idle shaking",
 			"framerate": 24,
