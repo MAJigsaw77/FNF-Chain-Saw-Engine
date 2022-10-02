@@ -50,7 +50,6 @@
 	<haxelib name="flixel-ui" />
 	<haxelib name="hscript" />
         <haxelib name="spinehaxe" />
-        <haxelib name="hxp" />
 	<haxelib name="polymod" if="FUTURE_POLYMOD" />
 	<haxelib name="discord_rpc" if="FUTURE_DISCORD_RCP" />
 	<haxelib name="hxcpp-debug-server" if="debug" />
@@ -96,7 +95,6 @@
 	<haxeflag name="--macro" value="include('StringBuf')" />
 	<haxeflag name="--macro" value="include('haxe')" />
         <haxeflag name="--macro" value="include('cpp')" />
-        <haxeflag name="--macro" value="include('hxp')" />
         <haxeflag name="--macro" value="include('spinehaxe')" />
 
 	<!-- _________________________________ Android Permissions _______________________________ -->
