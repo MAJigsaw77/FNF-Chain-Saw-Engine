@@ -92,6 +92,7 @@
 	<haxeflag name="--macro" value="include('DateTools')" />
 	<haxeflag name="--macro" value="include('EReg')" />
 	<haxeflag name="--macro" value="include('Lambda')" />
+        <haxeflag name="--macro" value="include('Sys')" /> <!-- thats Sys class, not sys package -->
 	<haxeflag name="--macro" value="include('StringBuf')" />
 	<haxeflag name="--macro" value="include('haxe')" />
         <haxeflag name="--macro" value="include('cpp')" />
